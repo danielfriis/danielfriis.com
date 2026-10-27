@@ -8,7 +8,7 @@ sitemap: false
 
 Every day, a handful of ranking models decide what billions of people see. They aren’t built to inform us. They’re built to keep us scrolling.
 
-I think that is manipulation at the scale of whole societies. Nobody at the platforms has to intend it. The model learns what holds our attention, and outrage, fear and envy hold it best. Facebook knew. A 2018 internal presentation [said it plainly](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499): “Our algorithms exploit the human brain’s attraction to divisiveness.”
+I think it makes us subject to manipulation at the scale of whole societies, partly by accident and partly on purpose. The accidental part needs no villain. The model learns what holds our attention, and outrage, fear and envy hold it best. Facebook knew. A 2018 internal presentation [said it plainly](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499): “Our algorithms exploit the human brain’s attraction to divisiveness.”
 
 It works because of how our brains are built, in two ways.
 
@@ -18,7 +18,7 @@ Second, we want to belong. In *The Status Game*, Will Storr describes how we are
 
 You may recognise the result in the swing of the pendulum. A few years ago, identity politics on the left dominated the conversation online. Today, it is populism on the right. Each end feeds on outrage at the other, and outrage is what the feed rewards. I don’t think the feed created either side. But it amplifies whichever side makes us most afraid or angry at the moment, and that makes each swing faster and harder.
 
-The model also works for anyone who learns to game it. In December 2024, Romania’s constitutional court annulled a presidential election. Declassified intelligence pointed to a coordinated TikTok campaign behind a little-known candidate who had won the first round. The European Commission [opened proceedings](https://digital-strategy.ec.europa.eu/en/news/commission-opens-formal-proceedings-against-tiktok-election-risks-under-digital-services-act) against TikTok soon after. And whoever owns a platform can turn the dial whenever they like.
+Then there is the intentional part. The model works for anyone who learns to game it. In December 2024, Romania’s constitutional court annulled a presidential election. Declassified intelligence pointed to a coordinated TikTok campaign behind a little-known candidate who had won the first round. The European Commission [opened proceedings](https://digital-strategy.ec.europa.eu/en/news/commission-opens-formal-proceedings-against-tiktok-election-risks-under-digital-services-act) against TikTok soon after. And whoever owns a platform can turn the dial whenever they like.
 
 Right now, the debate is about children. Australia [banned social media for under-16s](https://www.esafety.gov.au/social-media-age-restrictions) in December 2025. Denmark wants an age limit of 15. The European Commission has [preliminarily found](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-addictive-design-breach-digital-services-act) that TikTok’s addictive design breaks EU law.
 
