@@ -1,5 +1,5 @@
 ---
-title: The algorithmic timeline will get regulated
+title: The algorithmic feed will get regulated
 description: Engagement-ranked feeds steer what whole societies believe. Banning social media is the wrong fix. Regulating the feed is the right one, and I think it’s coming.
 date: 2026-10-27
 ---
