@@ -18,6 +18,8 @@ Second, we want to belong. In *The Status Game*, Will Storr describes how we are
 
 You may recognise the result in the swing of the pendulum. A few years ago, identity politics on the left dominated the conversation online. Today, it is populism on the right. Each end feeds on outrage at the other, and outrage is what the feed rewards. I don’t think the feed created either side. But it amplifies whichever side makes us most afraid or angry at the moment, and that makes each swing faster and harder.
 
+It also distorts how we see each other. The loudest and angriest voices on each side are served up as if they were everyone. So we come to believe the other side is more extreme than it is. Americans on both sides [think about twice as many](https://moreincommon.substack.com/p/what-we-get-wrong-about-each-other) of their opponents hold extreme views as actually do. The divide grows out of a picture that was never true.
+
 Then there is the intentional part. The model works for anyone who learns to game it. In December 2024, Romania’s constitutional court annulled a presidential election. Declassified intelligence pointed to a coordinated TikTok campaign behind a little-known candidate who had won the first round. The European Commission [opened proceedings](https://digital-strategy.ec.europa.eu/en/news/commission-opens-formal-proceedings-against-tiktok-election-risks-under-digital-services-act) against TikTok soon after. And whoever owns a platform can turn the dial whenever they like.
 
 Right now, the debate is about children. Australia [banned social media for under-16s](https://www.esafety.gov.au/social-media-age-restrictions) in December 2025. Denmark wants an age limit of 15. The European Commission has [preliminarily found](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-addictive-design-breach-digital-services-act) that TikTok’s addictive design breaks EU law.
@@ -34,6 +36,4 @@ Second, you get to pick the algorithm. The platform hosts the posts and the conn
 
 Third, whoever ranks at scale answers for what they amplify. A newspaper editor decides what a few hundred thousand people read, and answers for it under media law. The feed is the most powerful editor in history, and it answers to no one.
 
-None of this needs a ban. But the current situation can’t continue. The feed shows us a distorted picture of the world. The loudest and angriest voices on each side are served up as if they were everyone. So we come to believe the other side is more extreme than it is. Americans on both sides [think about twice as many](https://moreincommon.substack.com/p/what-we-get-wrong-about-each-other) of their opponents hold extreme views as actually do. The divide grows out of a picture that was never true.
-
-People will realise it, the way they realised that lead in petrol was poisoning everyone. We didn’t ban cars. We took the lead out of the petrol. We don’t need to ban social media. We need to take the engagement ranking out of the feed.
+The current situation can’t continue, and people will realise it, the way they realised that lead in petrol was poisoning everyone. We didn’t ban cars. We took the lead out of the petrol. We don’t need to ban social media. We need to take the engagement ranking out of the feed.
