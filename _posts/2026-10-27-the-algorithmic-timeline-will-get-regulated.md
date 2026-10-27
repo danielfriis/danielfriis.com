@@ -1,0 +1,29 @@
+---
+title: The algorithmic timeline will get regulated
+description: Engagement-ranked feeds steer what whole societies believe. Banning social media is the wrong fix. Regulating the feed is the right one, and I think it’s coming.
+date: 2026-10-27
+unlisted: true
+sitemap: false
+---
+
+Every day, a handful of ranking models decide what billions of people see. They aren’t built to inform us. They’re built to keep us scrolling.
+
+I think that is manipulation at the scale of whole societies. Nobody at the platforms has to intend it. The model learns what holds our attention, and outrage, fear and envy hold it best. Facebook knew. A 2018 internal presentation [said it plainly](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499): “Our algorithms exploit the human brain’s attraction to divisiveness.”
+
+The model also works for anyone who learns to game it. In December 2024, Romania’s constitutional court annulled a presidential election. Declassified intelligence pointed to a coordinated TikTok campaign behind a little-known candidate who had won the first round. The European Commission [opened proceedings](https://digital-strategy.ec.europa.eu/en/news/commission-opens-formal-proceedings-against-tiktok-election-risks-under-digital-services-act) against TikTok soon after. And whoever owns a platform can turn the dial whenever they like.
+
+Right now, the debate is about children. Australia [banned social media for under-16s](https://www.esafety.gov.au/social-media-age-restrictions) in December 2025. Denmark wants an age limit of 15. The European Commission has [preliminarily found](https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-addictive-design-breach-digital-services-act) that TikTok’s addictive design breaks EU law.
+
+Good. The damage to young people’s mental health is real, and it is massive. But it is dwarfed by what the same feeds do to all of us: what we believe, how we vote, and who we think the enemy is. An age limit protects a 14-year-old. It does nothing for the feed their parents scroll every night.
+
+The obvious answer is to ban social media altogether. I think that’s wrong. Social media is the closest thing we have to a public square. It’s where anyone can say what they think and be heard, and where we keep in touch with people we would otherwise lose. A ban would be a ban on free speech and on being connected.
+
+The problem isn’t that people can post. It’s the machine that decides who sees what. So I think regulation will separate speech from reach, in three steps.
+
+First, the default feed becomes the one you chose: the people you follow, newest first. The EU already requires the largest platforms to [offer a feed](https://www.springlex.eu/en/packages/dsa/dsa-regulation/article-38/) that isn’t based on profiling. Today you have to go looking for it, and [some argue](https://edri.org/wp-content/uploads/2026/03/EDRi-DSA-complaint-Youtube.pdf) it is hidden on purpose. Next, it becomes the default, and the engagement-ranked feed becomes something you switch on.
+
+Second, you get to pick the algorithm. The platform hosts the posts and the connections. The ranking can come from someone else. Bluesky already works this way with custom feeds. The ranking could even come from your own agent, working for you instead of for advertisers. It’s one more job for the [box in the cupboard]({% post_url 2026-10-18-the-next-operating-system %}).
+
+Third, whoever ranks at scale answers for what they amplify. A newspaper editor decides what a few hundred thousand people read, and answers for it under media law. The feed is the most powerful editor in history, and it answers to no one.
+
+None of this needs a ban. But the current situation can’t continue. Every election that turns on a feed and every leak about what a platform knew makes it harder to ignore. People will realise it, the way they realised that lead in petrol was poisoning everyone. We didn’t ban cars. We took the lead out.
