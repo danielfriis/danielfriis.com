@@ -16,7 +16,7 @@ Most of my todos don’t stall on the doing. They stall on the first step. “Fi
 
 That first step is exactly what an AI agent is good at. But my agent lived in a chat window, and my todos lived in a todo app, and the two never met. [Daniel: one line on how you handled this before. Copy-pasting todos into a chat?]
 
-So I built [Headstart](https://headstart.nowadays.tech). It’s a todo app for iPhone and Mac that I share with my assistant.
+So I built [Headstart](https://headstart.lab.nowadays.tech). It’s a todo app for iPhone and Mac that I share with my assistant.
 
 When I write a todo, Headstart sends it to my assistant, and the assistant starts on it. It writes what it found into the todo’s notes, with sources and links. Under the todo it leaves one line of status, like “Cheapest: [Daniel: a real status line from your list]”. When it needs a decision from me, the status line asks.
 
