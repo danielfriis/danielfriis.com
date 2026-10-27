@@ -10,7 +10,11 @@ Every day, a handful of ranking models decide what billions of people see. They 
 
 I think that is manipulation at the scale of whole societies. Nobody at the platforms has to intend it. The model learns what holds our attention, and outrage, fear and envy hold it best. Facebook knew. A 2018 internal presentation [said it plainly](https://www.wsj.com/articles/facebook-knows-it-encourages-division-top-executives-nixed-solutions-11590507499): “Our algorithms exploit the human brain’s attraction to divisiveness.”
 
-It works because of how our brains are built. We evolved to react to danger first and to follow the group, because for most of history both kept us alive. The feed rewards both. A [study of more than half a million tweets](https://pmc.ncbi.nlm.nih.gov/articles/PMC5514704/) found that each moral or emotional word in a tweet raised its retweets by about 20%, mostly within the author’s own political camp.
+It works because of how our brains are built, in two ways.
+
+First, we react to danger before anything else. For most of history, missing a threat could kill you, and missing good news rarely did. So a post that frightens or angers us grabs our attention faster than one that informs us.
+
+Second, we want to belong. In *The Status Game*, Will Storr describes how we are driven to join groups and to earn status inside them. Outrage at the other side is a cheap way to show which group you belong to, and your group rewards it with likes and shares. A [study of more than half a million tweets](https://pmc.ncbi.nlm.nih.gov/articles/PMC5514704/) found that each moral or emotional word in a tweet raised its retweets by about 20%, mostly within the author’s own political camp.
 
 You may recognise the result in the swing of the pendulum. A few years ago, identity politics on the left dominated the conversation online. Today, it is populism on the right. Each end feeds on outrage at the other, and outrage is what the feed rewards. I don’t think the feed created either side. But it amplifies whichever side makes us most afraid or angry at the moment, and that makes each swing faster and harder.
 
